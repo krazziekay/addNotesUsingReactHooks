@@ -1,0 +1,118 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+body {
+    margin: 0;
+    font-family: Quicksand;
+}
+
+input, textarea {
+    padding: 8px;
+    height: 24px;
+    line-height: 24px;
+    font-size: 16px;
+    width: 90%;
+    border: 1px solid #ddd;
+}
+
+
+button {
+    background-color: #7892c2;
+    -moz-border-radius: 28px;
+    -webkit-border-radius: 28px;
+    border-radius: 28px;
+    border: 1px solid #4e6096;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: Arial;
+    font-size: 17px;
+    padding: 16px 31px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #283966;
+}
+
+button:hover {
+    background-color: #476e9e;
+}
+
+button:active {
+    position: relative;
+    top: 1px;
+}
+
+
+.content {
+    background: #f3f3f3;
+    display: flex;
+}
+
+.note-wrapper {
+    height: 100vh;
+    width: 80%;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.list-wrapper {
+    height: 95vh;
+    width: 20%;
+    overflow: scroll;
+    margin: 0;
+    list-style: none;
+    padding: 12px;
+}
+
+.list-wrapper > li {
+    padding: 8px 4px;
+    border: 1px solid #ddd;
+    background: #fff;
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.note-content-wrapper {
+    height: 80%;
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    flex-direction: column;
+}
+
+.note {
+    min-height: 500px;
+    width: 90%;
+}
+
+.options-wrapper {
+    display: flex;
+}
+
+.option {
+    margin: 4px 12px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+    padding: 2px 8px;
+}
+
+.cross-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    cursor: pointer;
+    color: #ccc;
+    padding: 0 8px;
+}
+
+.list-title {
+}
+
+.list-note {
+    font-size: 14px;
+    text-align: justify;
+    color: #615f5f;
+}
+
