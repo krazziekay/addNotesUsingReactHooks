@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/addNotesUsingReactHooks/public/static/css/main.50c5819b.chunk.css",
-    "main.js": "/addNotesUsingReactHooks/public/static/js/main.0dc00d2b.chunk.js",
-    "main.js.map": "/addNotesUsingReactHooks/public/static/js/main.0dc00d2b.chunk.js.map",
-    "runtime~main.js": "/addNotesUsingReactHooks/public/static/js/runtime~main.c3d8b35e.js",
-    "runtime~main.js.map": "/addNotesUsingReactHooks/public/static/js/runtime~main.c3d8b35e.js.map",
-    "static/js/2.e27caaa6.chunk.js": "/addNotesUsingReactHooks/public/static/js/2.e27caaa6.chunk.js",
-    "static/js/2.e27caaa6.chunk.js.map": "/addNotesUsingReactHooks/public/static/js/2.e27caaa6.chunk.js.map",
-    "index.html": "/addNotesUsingReactHooks/public/index.html",
-    "precache-manifest.2e9c16fc381739262e18f1549d97fd90.js": "/addNotesUsingReactHooks/public/precache-manifest.2e9c16fc381739262e18f1549d97fd90.js",
-    "service-worker.js": "/addNotesUsingReactHooks/public/service-worker.js",
-    "static/css/main.50c5819b.chunk.css.map": "/addNotesUsingReactHooks/public/static/css/main.50c5819b.chunk.css.map"
+    "main.css": "/addNotesUsingReactHooks/static/css/main.50c5819b.chunk.css",
+    "main.js": "/addNotesUsingReactHooks/static/js/main.0dc00d2b.chunk.js",
+    "main.js.map": "/addNotesUsingReactHooks/static/js/main.0dc00d2b.chunk.js.map",
+    "runtime~main.js": "/addNotesUsingReactHooks/static/js/runtime~main.d561651e.js",
+    "runtime~main.js.map": "/addNotesUsingReactHooks/static/js/runtime~main.d561651e.js.map",
+    "static/js/2.e27caaa6.chunk.js": "/addNotesUsingReactHooks/static/js/2.e27caaa6.chunk.js",
+    "static/js/2.e27caaa6.chunk.js.map": "/addNotesUsingReactHooks/static/js/2.e27caaa6.chunk.js.map",
+    "index.html": "/addNotesUsingReactHooks/index.html",
+    "precache-manifest.9500fece96029bcb706b3998e5e0640e.js": "/addNotesUsingReactHooks/precache-manifest.9500fece96029bcb706b3998e5e0640e.js",
+    "service-worker.js": "/addNotesUsingReactHooks/service-worker.js",
+    "static/css/main.50c5819b.chunk.css.map": "/addNotesUsingReactHooks/static/css/main.50c5819b.chunk.css.map"
   }
 }
